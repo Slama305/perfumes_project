@@ -117,3 +117,9 @@ hr{
 .center{
     text-align: center;
 }
+@media (max-width:576px) {
+    .headen{
+        display: none;
+    }
+    
+}
